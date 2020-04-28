@@ -1,0 +1,12 @@
+﻿# Ignore everything
+*
+
+# But track these files
+!README.md
+!Exercise/
+Exercise/*
+!Exercise/Practice 1 Linear Discriminant Analysis/
+Exercise/Practice 1 Linear Discriminant Analysis/*
+!Exercise/Practice 1 Linear Discriminant Analysis/p1_lda_template.html
+!Exercise/Practice 1 Linear Discriminant Analysis/p1_lda_WorkedExample.ipynb
+!.gitignore
