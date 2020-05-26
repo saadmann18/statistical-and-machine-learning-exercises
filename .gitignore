@@ -9,4 +9,7 @@ Exercise/*
 Exercise/Practice 1 Linear Discriminant Analysis/*
 !Exercise/Practice 1 Linear Discriminant Analysis/p1_lda_template.html
 !Exercise/Practice 1 Linear Discriminant Analysis/p1_lda_WorkedExample.ipynb
+!Exercise/Practice 2 Least squares SGD/
+Exercise/Practice 2 Least squares SGD/*
+!Exercise/Practice 2 Least squares SGD/p2_WorkedExample.ipynb
 !.gitignore
